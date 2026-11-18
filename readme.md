@@ -17,5 +17,5 @@ Tech Stack
 Screen shot
 
 <img width="377" height="702" alt="image" src="https://github.com/user-attachments/assets/2ae57962-885a-4491-9d0c-7132366e09c7" />
-<img width="473" height="918" alt="image" src="https://github.com/user-attachments/assets/66119c65-1574-49f4-a1af-5edc72f07a89" />
-<img width="311" height="771" alt="image" src="https://github.com/user-attachments/assets/f0326d9d-f680-42c4-bbbb-4b3a64e17435" />
+<img width="373" height="818" alt="image" src="https://github.com/user-attachments/assets/66119c65-1574-49f4-a1af-5edc72f07a89" />
+<img width="211" height="671" alt="image" src="https://github.com/user-attachments/assets/f0326d9d-f680-42c4-bbbb-4b3a64e17435" />
